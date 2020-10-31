@@ -3,6 +3,7 @@
 Welcome to my portfolio.
 
 Here you can find instances of the work I have done with python!
+If there are inquiries about my work, you can reach me at: [Fatbobot@gmail.com](mail:to:fatbobot@gmail.com)
 
 This is an example of [printing a rounded number with strings in the printed output!](portfolio1.md)
 
