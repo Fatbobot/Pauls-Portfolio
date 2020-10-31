@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Pauls-Portfolio
 
-You can use the [editor on GitHub](https://github.com/Fatbobot/Pauls-Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my portfolio.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here you can find instances of the work I have done with python!
+If there are inquiries about my work, you can reach me at: [Fatbobot@gmail.com](mail:to:fatbobot@gmail.com)
 
-### Markdown
+This is an example of [printing a rounded number with strings in the printed output!](portfolio1.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is an example of [using .loc function and in combination of "==" to find the mean of certain values](portfolio2.md)
 
-```markdown
-Syntax highlighted code block
+This is an example of [using .groupby() in combination with .describe() to output a neat table using pandas DataFrames](portfolio3.md)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Fatbobot/Pauls-Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This is an example of [using simple list creation in combination of for loop konwledge to set up data cleaning for various scenarios](portfolio4.md)
