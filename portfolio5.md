@@ -1,3 +1,5 @@
+In this example, the first line indicates the size of the figures, while the subplot counter is used within the loop to update and create new subplots. range() is used to indicate how many brain scans we want to go through(In this case 0-27, so all 27), and the 3 indicates we want to jump by three. We create the parameters for the subplot grid, then change some details using vmin/max and cmap to change the colour. In this image we indicate which regions in the brain show activation in response to a cetain stimulus.
+
 ```
 fig = plt.figure(figsize=[8, 12])
 subplot_counter = 1
