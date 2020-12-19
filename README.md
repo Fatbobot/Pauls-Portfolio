@@ -18,3 +18,6 @@ This is an example of [using heatmaps within a brain scan. Several different lay
 This is an example of [code using seaborn, to plot information on box and whisker plots](portfolio6.md)
 
 This is an example of [code using MNE to create a topograph array for eeg data.](porfolio7.md)
+
+This is an example that uses [list comprehension in combination to create several pandas dataframes.](portfolio8.md)
+
