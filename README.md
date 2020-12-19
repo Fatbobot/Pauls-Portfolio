@@ -17,4 +17,4 @@ This is an example of [using heatmaps within a brain scan. Several different lay
 
 This is an example of [a](portfolio6.md)
 
-This is an example of [b](portfolio7.md)
+This is an example of [b](porfolio7.md)
