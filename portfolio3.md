@@ -4,5 +4,5 @@ In this example, we used the .groupby to create hierarchical indexing while crea
 ```python
 df_cond_stats = pd.DataFrame(df.groupby(['flankers','simon'])['rt'].describe())
 
-![image](https://user-images.githubusercontent.com/73757147/102678331-00cc3600-417e-11eb-9841-33ca38906e02.png)
 ```
+![image](https://user-images.githubusercontent.com/73757147/102678331-00cc3600-417e-11eb-9841-33ca38906e02.png)
