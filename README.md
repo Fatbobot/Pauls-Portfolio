@@ -19,5 +19,6 @@ This is an example of [code using seaborn, to plot information on box and whiske
 
 This is an example of [code using MNE to create a topograph array for eeg data.](porfolio7.md)
 
-This is an example that uses [list comprehension in combination with grand average to find averages of lots of data.](portfolio8.md)
+This is an example [that uses list comprehension in combination with grand average to find averages of lots of data.](portfolio8.md)
 
+This is an example [that changes evoked into pandas dataframes while simultaneously using enumerate within a forloop] (portfolio9.md)
