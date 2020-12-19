@@ -13,3 +13,4 @@ This is an example of [using .groupby() in combination with .describe() to outpu
 
 This is an example of [using simple list creation in combination of for loop konwledge to set up data cleaning for various scenarios](portfolio4.md)
 
+This is an example of [using heatmaps within a brain scan. Several different layers of code exist here such as creating sub plots, for loops, and knowledge of matplotlibs colourmaps.](portfolio5.md)
