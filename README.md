@@ -17,4 +17,4 @@ This is an example of [using heatmaps within a brain scan. Several different lay
 
 This is an example of [a](portfolio6.md)
 
-This is an example of [b](porfolio7.md)
+This is an example of [code using MNE to create a topograph array for eeg data.](porfolio7.md)
