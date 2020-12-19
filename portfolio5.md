@@ -11,3 +11,4 @@ for ii in range(0,27,3):
     plt.tight_layout()
     subplot_counter += 1 
 ```
+![image](https://user-images.githubusercontent.com/73757147/102678513-6e2c9680-417f-11eb-8499-02a710ac1670.png)
