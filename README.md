@@ -15,4 +15,4 @@ This is an example of [using simple list creation in combination of for loop kon
 
 This is an example of [using heatmaps within a brain scan. Several different layers of code exist here such as creating sub plots, for loops, and knowledge of matplotlibs colourmaps.](portfolio5.md)
 
-This is an example of [](portfolio6.md)
+This is an example of [a](portfolio6.md)
